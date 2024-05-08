@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CALCULAR ECUACION", "CALCULAR ECUACION\CALCULAR ECUACION.csproj", "{BAB6ACC5-6E83-48C3-BA01-E2ECC9B26462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB6ACC5-6E83-48C3-BA01-E2ECC9B26462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB6ACC5-6E83-48C3-BA01-E2ECC9B26462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB6ACC5-6E83-48C3-BA01-E2ECC9B26462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB6ACC5-6E83-48C3-BA01-E2ECC9B26462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A179C031-573B-413E-B7B0-A2D58BC5A0B5}
+	EndGlobalSection
+EndGlobal
